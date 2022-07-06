@@ -1,0 +1,7 @@
+com/platzi/javatests/payments/PaymentRequest.class
+com/platzi/javatests/payments/PaymentGateway.class
+com/platzi/javatests/payments/PaymentResponse.class
+com/platzi/javatests/player/Dice.class
+com/platzi/javatests/player/Player.class
+com/platzi/javatests/payments/PaymentResponse$PaymentStatus.class
+com/platzi/javatests/payments/PaymentProcessor.class
